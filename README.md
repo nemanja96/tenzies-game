@@ -1,5 +1,7 @@
 # Tensies Game - Version 1
 
+<img src="tenzies-game.png" />
+
 ## If you want to play game, visit this link: https://tenzies-game.nemanjaradivojevic.rs
 
 ## Or download and create some cool features.
@@ -8,5 +10,3 @@
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-<img src="tenzies-game.png" />
